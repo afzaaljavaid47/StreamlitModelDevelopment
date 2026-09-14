@@ -1,0 +1,25 @@
+{
+    "problem_type": "Regression",
+    "model_name": "Linear Regression",
+    "target_column": "price",
+    "features": [
+        "bedrooms",
+        "bathrooms",
+        "floors",
+        "waterfront",
+        "grade",
+        "sqft_above",
+        "sqft_basement"
+    ],
+    "test_size": 0.2,
+    "random_state": 42,
+    "mae": 159623.2775027136,
+    "mse": 61256882769.82968,
+    "rmse": 247501.27831958703,
+    "r2": 0.5952759877142788,
+    "model_settings": {
+        "fit_intercept": true
+    },
+    "training_rows": 17290,
+    "validation_rows": 4323
+}
