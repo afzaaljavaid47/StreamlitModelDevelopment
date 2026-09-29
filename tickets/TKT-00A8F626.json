@@ -1,0 +1,31 @@
+{
+    "ticket_id": "TKT-00A8F626",
+    "intent": "billing",
+    "urgency": "Critical",
+    "conversation": [
+        {
+            "role": "assistant",
+            "content": "Hello! \ud83d\udc4b I'm your AI support assistant.\n\nHow can I help you today?"
+        },
+        {
+            "role": "user",
+            "content": "need help"
+        },
+        {
+            "role": "assistant",
+            "content": "Could you please explain exactly what happened?"
+        },
+        {
+            "role": "user",
+            "content": "This is not working"
+        },
+        {
+            "role": "assistant",
+            "content": "Could you please explain exactly what happened?"
+        },
+        {
+            "role": "user",
+            "content": "i am not getting paid out"
+        }
+    ]
+}

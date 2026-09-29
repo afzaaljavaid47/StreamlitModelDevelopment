@@ -1,0 +1,39 @@
+{
+    "ticket_id": "TKT-86A37E9B",
+    "intent": "billing",
+    "urgency": "Medium",
+    "conversation": [
+        {
+            "role": "assistant",
+            "content": "Hello! \ud83d\udc4b I'm your AI support assistant.\n\nHow can I help you today?"
+        },
+        {
+            "role": "user",
+            "content": "Hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Could you please explain exactly what happened?"
+        },
+        {
+            "role": "user",
+            "content": "I need Help"
+        },
+        {
+            "role": "assistant",
+            "content": "Could you please explain exactly what happened?"
+        },
+        {
+            "role": "user",
+            "content": "I need refund"
+        },
+        {
+            "role": "assistant",
+            "content": "Could you please provide your order or transaction ID?"
+        },
+        {
+            "role": "user",
+            "content": "My order id is 258965"
+        }
+    ]
+}
